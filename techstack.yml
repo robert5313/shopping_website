@@ -1,0 +1,20 @@
+repo_name: robert5313/shopping_website
+report_id: 4f7f02e83388e7d1e57a3ab4a942db47
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T17:42:31+00:00'
+requested_by: robert5313
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/robert5313/shopping_website
+  detection_source: Repo Metadata
